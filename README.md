@@ -12,7 +12,7 @@ After a long building time went away, including my spare time and break time. Di
 ## Instruction
 How to install the binary file for arm64 devices?
 ```sh
-sudo apt install Joplin-arm64.dep
+sudo dpkg -i Joplin-arm64.deb
 
 ```
 or you can run the AppImage file directly.
@@ -25,5 +25,5 @@ Good luck to you, guys. i really hope you can run joplin in your arm64 devices, 
 
 ## my build note
 
-[How to build joplin for arm64 devices?]()
+[How to build joplin for arm64 devices?](https://github.com/leaguecn/joplin-arm64-build/blob/main/how-to-build-joplin-for-atm64-devices.md)
 
