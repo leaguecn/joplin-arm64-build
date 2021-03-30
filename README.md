@@ -5,8 +5,8 @@ Then, one day, i wanna make some note for my searching result, testing on some o
 Joplin is one of pretty beautiful softwares. Yep, that time i cannot find any built for my PI400. So i tried to build one for my arm64 device.
 After a long building time went away, including my spare time and break time. Different building methods, searching from internet, had been tried. Finally, i made it, suffering the npm dependencies lack fixed.
 ## Built file links
-[Joplin-arm64.dep]()
-[Joplin-arm64.AppImage]()
++ [Joplin-arm64.dep]()
++ [Joplin-arm64.AppImage]()
 
 
 ## Instruction
@@ -24,5 +24,6 @@ sudo chmod a+x Joplin-arm64.AppImage
 Good luck to you, guys. i really hope you can run joplin in your arm64 devices, making some tips note.
 
 ## my build note
+
 [How to build joplin for arm64 devices?]()
 
