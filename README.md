@@ -9,8 +9,8 @@ After a long building time went away, including my spare time and break time. Di
 + [Joplin-arm64.AppImage](https://cumteducn-my.sharepoint.com/:u:/g/personal/liguinan_cumt_edu_cn/EfGOAO6y6KdLoDilM1upJRkBfAxjFR9lorGF5pB7iFLiCQ?e=Odtpxv)
 
 > update build sometimes
-+ [v1.8.2(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/EnddWEWykR9Mhv4Yb2Q3Ch4BWNXSBOvw5vQzbBS8Gdl1_Q?e=2ds6N)
-+ [v2.0.2(armv7l&armv64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/EhdQEzHjFcZLnUdzayr1p08BM1eF2kR-syYCbNsrg0SwVQ?e=j8ZyLY)upuu
++ [v1.8.2(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/EnddWEWykR9Mhv4Yb2Q3Ch4BWNXSBOvw5vQzbBS8Gdl1_Q?e=2ds6N), 2021/05/04
++ [v2.0.2(armv7l&armv64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/EhdQEzHjFcZLnUdzayr1p08BM1eF2kR-syYCbNsrg0SwVQ?e=j8ZyLY), 2021/05/29
 
 
 ## Instruction
@@ -25,7 +25,7 @@ sudo chmod a+x Joplin-arm64.AppImage
 ./Joplin-arm64.AppImage
 
 ```
-Good luck to you, guys. i really hope you can run joplin in your arm64 devices, making some tips note.
+Good luck to you, guys. i really hope you can run joplin in your armv7l and arm64 devices, making some tips note.
 
 ## my build note
 
