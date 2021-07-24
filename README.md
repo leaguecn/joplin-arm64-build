@@ -12,6 +12,7 @@ After a long building time went away, including my spare time and break time. Di
 + [v1.8.2(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/EnddWEWykR9Mhv4Yb2Q3Ch4BWNXSBOvw5vQzbBS8Gdl1_Q?e=2ds6N), 2021/05/04
 + [v2.0.2(armv7l&arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/EhdQEzHjFcZLnUdzayr1p08BM1eF2kR-syYCbNsrg0SwVQ?e=j8ZyLY), 2021/05/29
 + [v2.1.0(armv7l&arm64](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/EhmwU5IWJZNGsu6anI01O-MBfOrzuvvtk_0If2f3QWr04Q?e=iUb4pJ), 2021/06/20
++ [v2.2.0(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/EmoaUeqbDYpFhtEHvjzan0sBBtZNiZ0FV0cLZDb-2_5U1g?e=nxrhQV), 2021/07/24updat   
 
 
 
