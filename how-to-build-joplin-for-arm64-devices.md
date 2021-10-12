@@ -8,7 +8,7 @@ npm install -g npm
 gem install --no-document fp
 ```
 
-> Maybe, you need install electron and libvips
+> Perhaps, you need install electron and libvips
 + Electron https://stackoverflow.com/questions/31162671/install-electron-on-ubuntu
 	 + Updated the npm package to latest:
 	`sudo npm install npm@latest -g`
