@@ -77,10 +77,13 @@ npm run dist -- --arm64 --linux deb
 
 + https://www.reddit.com/r/PINE64official/comments/fh3xou/install_joplin_notes_on_stock_os_of_pinebook_pro/
 
++ https://github.com/joesfer/joplin-arm64
+
 
 |时间|地点|修改人|备注
 -----|----|-----|----
 |2021-03-07|佛山禅城|lee|首发
 |2021-03-14|佛山禅城|lee|修订
+|2021-10-12|foshan chancheng|lee|add reference
 
 
