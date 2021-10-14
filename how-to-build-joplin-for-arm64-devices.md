@@ -4,7 +4,6 @@
 ## Step 2 Install the dependencies
 ```
 apt-get update && apt-get dist-upgrade -y && apt-get -y install curl && curl -sL https://deb.nodesource.com/setup_14.x | bash - && apt-get -y install nodejs build-essential git jq libsecret-1-dev rsync python ruby ruby-dev libnss3
-<!--npm install -g npm-->
 npm install npm@6 -g
 gem install --no-document fp
 ```
