@@ -16,6 +16,8 @@ After a long building time went away, including my spare time and break time. Di
 + [v2.2.2(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/Eq2DjihbU75OlPVpJZPr-RQBl9y515MRJ_tZ31p-Ng4ETA), 2021/07/26
 + [v2.4.1(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/EoAJ_B3EVs1Bs1B1crEX_IIBLChq43zZ8eLDbydc2bMx8g?e=LUhRoe), 2021/08/26
 + [v2.5.1(arm64&armv7l)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/EtVGRYHRbEVOj91m2DACbssBnBTBLZKKJkVg2uWkRwBsOA?e=6AwV1a), 2021/10/12
++ [v2.8.8(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/EjslzODy9sdIq8e3qfEKqWsBzk-00IL5GhJs-R7v3XUS4g?e=41QLFe), 2022/10/12 AM, build os centos7
+
 
 
 
@@ -37,3 +39,6 @@ Good luck to you, guys. i really hope you can run joplin in your arm devices, ma
 
 [How to build joplin for arm64 devices?](https://github.com/leaguecn/joplin-arm64-build/blob/main/how-to-build-joplin-for-arm64-devices.md)
 
+## update the build note
+
+it will be complete as soon as possible.
