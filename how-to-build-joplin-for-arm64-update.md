@@ -190,15 +190,15 @@ for guessing what kind of bug is lead to invoke processing execution stop and ex
 
 
 ## references
-https://blog.csdn.net/a1452302285/article/details/104328843
-https://blog.csdn.net/weixin_42194239/article/details/91046297
-https://blog.csdn.net/markximo/article/details/80449626
-https://www.jianshu.com/p/959ca0e5495a
-https://blog.csdn.net/chending_cd/article/details/100555955
-https://www.cnblogs.com/technicianafei/p/14765531.html
-https://www.softwarecollections.org/en/scls/rhscl/devtoolset-8/
-https://blog.51cto.com/34144451/3773031
-https://blog.csdn.net/adley_app/article/details/111733908
+https://blog.csdn.net/a1452302285/article/details/104328843    
+https://blog.csdn.net/weixin_42194239/article/details/91046297    
+https://blog.csdn.net/markximo/article/details/80449626    
+https://www.jianshu.com/p/959ca0e5495a    
+https://blog.csdn.net/chending_cd/article/details/100555955    
+https://www.cnblogs.com/technicianafei/p/14765531.html    
+https://www.softwarecollections.org/en/scls/rhscl/devtoolset-8/     
+https://blog.51cto.com/34144451/3773031     
+https://blog.csdn.net/adley_app/article/details/111733908     
 https://github.com/leaguecn/joplin-arm64-build/blob/main/how-to-build-joplin-for-arm64-devices.md
 
 
