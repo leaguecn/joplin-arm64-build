@@ -51,8 +51,3 @@ Good luck to you, guys. i really hope you can run joplin in your arm devices, ma
 ## build issues fixed list
 
 + [lzma-native@npm:8.0.6 compile fail](https://github.com/laurent22/joplin/issues/7270)
-> my solution is:     
-1)modify the config file with cmd vim binding.gyp;    
-2)then find the issue block code like build/liblzma/build/lib/liblzma.a;    
-3)modify block code as build/liblzma/build/lib64/liblzma.a;     
-when i recompile the project, issue had gone.    
