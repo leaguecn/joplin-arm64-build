@@ -39,15 +39,20 @@ sudo chmod a+x yyy.AppImage
 ```
 Good luck to you, guys. i really hope you can run joplin in your arm devices, making some tips note.
 
-## my build note
+
+
+* * *
+## Misc
+
+### My build note
 
 [How to build joplin for arm64 devices?](https://github.com/leaguecn/joplin-arm64-build/blob/main/how-to-build-joplin-for-arm64-devices.md)
 
-## update the build note
+### Update the build note
 
 [how-to-build-joplin-for-arm64-update](https://github.com/leaguecn/joplin-arm64-build/blob/main/how-to-build-joplin-for-arm64-update.md)
 
 
-## build issues fixed list
+### Build issues fixed list
 
 + [lzma-native@npm:8.0.6 compile fail](https://github.com/laurent22/joplin/issues/7270)
