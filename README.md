@@ -21,6 +21,7 @@ After a long building time went away, including my spare time and break time. Di
 > pre version build
 - [v2.9.4(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/Eh2wl_YcKElKu0VSwbTwvvsBvecdGwELqOnbuoKSB19MWw?e=ebrf9d), 2022/10/12 Midnight, build os centos7
 - [v2.9.17(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/EleNrHEty_JEplr0SewMRkYBrzYrDJ6zuA3IsqgKGJIeCw?e=WSK6pW), 2022/12/15 noon, build os opensuse_leap_15.4
+- [v2.10.4(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/EnKmV6rGmhNKgR4nh8wWqbMBHtwZQnb5bxZvlJl6fm8XLw?e=a6XwJJ), 2023/01/21 afternoon, build os: opensuse_leap_15.4
 
 official release note: https://github.com/laurent22/joplin/releases
 
