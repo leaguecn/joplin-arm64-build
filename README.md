@@ -24,6 +24,10 @@ After a long building time went away, including my spare time and break time. Di
 - [v2.10.4(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/EnKmV6rGmhNKgR4nh8wWqbMBHtwZQnb5bxZvlJl6fm8XLw?e=a6XwJJ), 2023/01/21 afternoon, build os: opensuse_leap_15.4
 - [v2.10.13(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/EnoSLtcRkuhJmCO7Ko24pl8B8SseWCExvgOfr8ppuSOeKQ?e=61G8kP), 2023/04/05 night, build os: opensuse_leap_15.4
 - [v2.11.6(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/Eim5oiUdjLlArfmDn9fhlc4BS8cSnylxFMlcPXu3iIzEUA?e=jnHu6N), 2023/06/04 night, build os: opensuse_leap_15.4
+- [v2.12.7(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/Evhah1VPCgJPvKb5xDVE8NABggVmDFTm4f55T0mL9xNRKA?e=XV8mBu), 2023/07/19 night, build os: opensuse_leap_15.4
+- [v2.12.10(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/EpPFhAZNZnNGkWSlO-MIc3kBBLmf2sz0vWrLNjiRBiQTmg?e=Jd2OfH), 2023/08/06 afternoon, build os: opensuse_leap_15.4
+
+P.S.: As test on my pi400 machine, some issues showed up on deb package. So i recommend you just use AppImage package if you need the new version. 2023/08/06
 
 official release note: https://github.com/laurent22/joplin/releases
 
