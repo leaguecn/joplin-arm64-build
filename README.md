@@ -34,6 +34,8 @@ After a long building time went away, including my spare time and break time. Di
 
 
 P.S.: As test on my pi400 machine, some issues showed up on deb package. So i recommend you just use AppImage package if you need the new version. 2023/08/06
+
+
 When I try to build package in ubuntu 23.10(deploy via termux in my new phone OPPO K11), issues on deb package had disappear just now. So the deb file is valid now. 2024/02/03
 
 
