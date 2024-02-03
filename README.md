@@ -30,10 +30,16 @@ After a long building time went away, including my spare time and break time. Di
 - [v2.11.6(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/Eim5oiUdjLlArfmDn9fhlc4BS8cSnylxFMlcPXu3iIzEUA?e=jnHu6N), 2023/06/04 night, build os: opensuse_leap_15.4
 - [v2.12.7(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/Evhah1VPCgJPvKb5xDVE8NABggVmDFTm4f55T0mL9xNRKA?e=XV8mBu), 2023/07/19 night, build os: opensuse_leap_15.4
 - [v2.12.10(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/EpPFhAZNZnNGkWSlO-MIc3kBBLmf2sz0vWrLNjiRBiQTmg?e=Jd2OfH), 2023/08/06 afternoon, build os: opensuse_leap_15.4
+- [v2.14.11(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/EhseWci_gBRIpMKwpmJQRSMBkqWehFQx8PCjpp2l4afm8w?e=mRSQFc), 2024/02/03 night, build os: ubuntu 23.10
+
 
 P.S.: As test on my pi400 machine, some issues showed up on deb package. So i recommend you just use AppImage package if you need the new version. 2023/08/06
+When I try to build package in ubuntu 23.10(deploy via termux in my new phone OPPO K11), issues on deb package had disappear just now. So the deb file is valid now. 2024/02/03
 
-official release note: https://github.com/laurent22/joplin/releases
+
+- Joplin official release note: https://github.com/laurent22/joplin/releases
+- Termux official website: https://termux.dev/en/
+
 
 
 ## Instruction
