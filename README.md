@@ -19,6 +19,8 @@ After a long building time went away, including my spare time and break time. Di
 + [v2.8.8(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/EjslzODy9sdIq8e3qfEKqWsBzk-00IL5GhJs-R7v3XUS4g?e=41QLFe), 2022/10/12 AM, build os centos7
 + [v2.12.18(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/Es6mabKT2mVOviMRPlhiW20BbAb-bCd3JkcdAzcLfeqWBQ?e=JjQAnX), 2023/09/24 PM, build os opensuse_leap_15.4 (only AppImage)
 + [v2.13.10(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/EvjXWwfB0ZdGvu0teeo-LVgBZm9nGlk2mEJkGSAeMc6Mew?e=Jp7we0), 2023/12/24 PM, build os opensuse_leap_15.4 (only AppImage)
++ [v2.14.20(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/Egow_wRY0gFFgzrqrkgrJ8IBkATfwoFMtcZzhf_GKA_5jw?e=yrcP32), 2024/03/27 PM, build OS: ubuntu 23.10 
+
 
 
 
@@ -37,6 +39,8 @@ P.S.: As test on my pi400 machine, some issues showed up on deb package. So i re
 
 
 When I try to build package in ubuntu 23.10(deploy via termux in my new phone OPPO K11), issues on deb package had disappear just now. So the deb file is valid now. 2024/02/03
+
+Now, I switch the build environment into my oneplus 7(ubuntu 23.10 deployed via termux app), then test cases in the AppImage and deb packages are well, just enjoy taking notes! 2024/03/28
 
 
 - Joplin official release note: https://github.com/laurent22/joplin/releases
