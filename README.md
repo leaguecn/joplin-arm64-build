@@ -33,6 +33,9 @@ After a long building time went away, including my spare time and break time. Di
 - [v2.12.7(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/Evhah1VPCgJPvKb5xDVE8NABggVmDFTm4f55T0mL9xNRKA?e=XV8mBu), 2023/07/19 night, build os: opensuse_leap_15.4
 - [v2.12.10(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/EpPFhAZNZnNGkWSlO-MIc3kBBLmf2sz0vWrLNjiRBiQTmg?e=Jd2OfH), 2023/08/06 afternoon, build os: opensuse_leap_15.4
 - [v2.14.11(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/EhseWci_gBRIpMKwpmJQRSMBkqWehFQx8PCjpp2l4afm8w?e=mRSQFc), 2024/02/03 night, build os: ubuntu 23.10
+- [v3.0.6(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/EksE9kpwyPlOl55vBfUXa2oBnphLKbv-JiS8uSyoE1nZdg?e=d1eT7h), 2024/05/02 night, build os: ubuntu-lts 22.04.3
+
+
 
 
 P.S.: As test on my pi400 machine, some issues showed up on deb package. So i recommend you just use AppImage package if you need the new version. 2023/08/06
@@ -41,6 +44,8 @@ P.S.: As test on my pi400 machine, some issues showed up on deb package. So i re
 When I try to build package in ubuntu 23.10(deploy via termux in my new phone OPPO K11), issues on deb package had disappear just now. So the deb file is valid now. 2024/02/03
 
 Now, I switch the build environment into my oneplus 7(ubuntu 23.10 deployed via termux app), then test cases in the AppImage and deb packages are well, just enjoy taking notes! 2024/03/28
+
+Yep, I try to build joplin latest version in new environment, using my old phone Redmi Note7 Pro(ubuntu 22.04.3 deployed via termux app), and it works after fix some issues lack of libxxx. Test cases in the AppImage and deb package show that most of functions are nromal. Cheer up, guys! 2024/05/03
 
 
 - Joplin official release note: https://github.com/laurent22/joplin/releases
