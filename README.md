@@ -34,6 +34,8 @@ After a long building time went away, including my spare time and break time. Di
 - [v2.12.10(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/EpPFhAZNZnNGkWSlO-MIc3kBBLmf2sz0vWrLNjiRBiQTmg?e=Jd2OfH), 2023/08/06 afternoon, build os: opensuse_leap_15.4
 - [v2.14.11(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/EhseWci_gBRIpMKwpmJQRSMBkqWehFQx8PCjpp2l4afm8w?e=mRSQFc), 2024/02/03 night, build os: ubuntu 23.10
 - [v3.0.6(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/EksE9kpwyPlOl55vBfUXa2oBnphLKbv-JiS8uSyoE1nZdg?e=d1eT7h), 2024/05/02 night, build os: ubuntu-lts 22.04.3
+- [v3.0.10(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/EuhMqhgUw4JCrXl1Ac1_zYcBjnUWottKIGvoYcAktvaTfA?e=VqChFd), 2024/06/27 morning, build os: ubuntu-lts 22.04.3
+
 
 
 
