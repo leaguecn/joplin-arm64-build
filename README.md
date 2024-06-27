@@ -47,7 +47,7 @@ When I try to build package in ubuntu 23.10(deploy via termux in my new phone OP
 
 Now, I switch the build environment into my oneplus 7(ubuntu 23.10 deployed via termux app), then test cases in the AppImage and deb packages are well, just enjoy taking notes! 2024/03/28
 
-Yep, I try to build joplin latest version in new environment, using my old phone Redmi Note7 Pro(ubuntu 22.04.3 deployed via termux app), and it works after fix some issues lack of libxxx. Test cases in the AppImage and deb package show that most of functions are nromal. Cheer up, guys! 2024/05/03
+Yep, I try to build joplin latest version in new environment, using my old phone Redmi Note7 Pro(ubuntu 22.04.3 deployed via termux app), and it works after fix some issues lack of libxxx. Test cases in the AppImage and deb package show that most of functions are normal. Cheer up, guys! 2024/05/03
 
 
 - Joplin official release note: https://github.com/laurent22/joplin/releases
