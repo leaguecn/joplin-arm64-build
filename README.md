@@ -35,7 +35,9 @@ After a long building time went away, including my spare time and break time. Di
 - [v2.14.11(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/EhseWci_gBRIpMKwpmJQRSMBkqWehFQx8PCjpp2l4afm8w?e=mRSQFc), 2024/02/03 night, build os: ubuntu 23.10
 - [v3.0.6(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/EksE9kpwyPlOl55vBfUXa2oBnphLKbv-JiS8uSyoE1nZdg?e=d1eT7h), 2024/05/02 night, build os: ubuntu-lts 22.04.3
 - [v3.0.10(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/EuhMqhgUw4JCrXl1Ac1_zYcBjnUWottKIGvoYcAktvaTfA?e=VqChFd), 2024/06/27 morning, build os: ubuntu-lts 22.04.3
-
+- [v3.0.15(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/EtbJo-yXMOdDvfHSASwhdUwB0wTY2DGjXYHOO8lufPJs7g?e=6qwyam), 2024/11/17 afternoon, build os: ubuntu 23.10
+- [v3.1.20(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/EmFJSJhwmBdNoJOceOeWpkgBBhe-OC4wTuyc7o-FGNGwpA?e=acbQB4), 2024/11/17 afternoon, build os: ubuntu 23.10
+- [v3.2.1(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/EveylK8AozhFsOXVLalNcrsByK6jCMvExxI0Hgfe13eGSg?e=u12DLU), 2024/11/16 afternoon, build os: ubuntu 23.10
 
 
 
