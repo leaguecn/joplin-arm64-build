@@ -19,11 +19,11 @@ After a long building time went away, including my spare time and break time. Di
 + [v2.8.8(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/EjslzODy9sdIq8e3qfEKqWsBzk-00IL5GhJs-R7v3XUS4g?e=41QLFe), 2022/10/12 AM, build os centos7
 + [v2.12.18(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/Es6mabKT2mVOviMRPlhiW20BbAb-bCd3JkcdAzcLfeqWBQ?e=JjQAnX), 2023/09/24 PM, build os opensuse_leap_15.4 (only AppImage)
 + [v2.13.10(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/EvjXWwfB0ZdGvu0teeo-LVgBZm9nGlk2mEJkGSAeMc6Mew?e=Jp7we0), 2023/12/24 PM, build os opensuse_leap_15.4 (only AppImage)
-+ [v2.14.20(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/Egow_wRY0gFFgzrqrkgrJ8IBkATfwoFMtcZzhf_GKA_5jw?e=yrcP32), 2024/03/27 PM, build OS: ubuntu 23.10 
-- [v3.0.15(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/EtbJo-yXMOdDvfHSASwhdUwB0wTY2DGjXYHOO8lufPJs7g?e=6qwyam), 2024/11/17 afternoon, build os: ubuntu 23.10
-- [v3.1.20(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/EmFJSJhwmBdNoJOceOeWpkgBBhe-OC4wTuyc7o-FGNGwpA?e=acbQB4), 2024/11/17 afternoon, build os: ubuntu 23.10
++ [v2.14.20(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/Egow_wRY0gFFgzrqrkgrJ8IBkATfwoFMtcZzhf_GKA_5jw?e=yrcP32), 2024/03/27 PM, build OS: ubuntu 23.10
++ [v3.0.15(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/EtbJo-yXMOdDvfHSASwhdUwB0wTY2DGjXYHOO8lufPJs7g?e=6qwyam), 2024/11/17 afternoon, build os: ubuntu 23.10
++ [v3.1.20(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/EmFJSJhwmBdNoJOceOeWpkgBBhe-OC4wTuyc7o-FGNGwpA?e=acbQB4), 2024/11/17 afternoon, build os: ubuntu 23.10
 
-
+* * *
 
 > pre version build
 - [v2.9.4(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/Eh2wl_YcKElKu0VSwbTwvvsBvecdGwELqOnbuoKSB19MWw?e=ebrf9d), 2022/10/12 Midnight, build os centos7
@@ -39,7 +39,7 @@ After a long building time went away, including my spare time and break time. Di
 - [v3.2.1(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/EveylK8AozhFsOXVLalNcrsByK6jCMvExxI0Hgfe13eGSg?e=u12DLU), 2024/11/16 afternoon, build os: ubuntu 23.10
 
 
-
+* * *
 
 P.S.: As test on my pi400 machine, some issues showed up on deb package. So i recommend you just use AppImage package if you need the new version. 2023/08/06
 
