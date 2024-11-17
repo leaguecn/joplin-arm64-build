@@ -188,6 +188,29 @@ npm run dist -- --arm64 --linux deb
 When you encount some bug or abnormal issue, you should search for the solution in the internet firstly, using the search engine, such as goolge and bing. Then, try to fix it by yourself, step by step to solve one by one issue. Finally you will get it work. Of course, you should have some experience in the whole processing
 for guessing what kind of bug is lead to invoke processing execution stop and exit. Yep, all the abnormal issue come from the build log, which you should read more carefully.
 
+## Update the compile script
++ following bash script just tested on after joplin-3.0.15 version, other version may show up some errors. on 2024-11-17, Foshan CN.
+```bash
+# after wget the release tall from official site
+# just like: wget https://github.com/laurent22/joplin/archive/refs/tags/v2.8.8.tar.gz    
+tar -xvf ****.tar.gz    
+cd joplin****    
+cd packages/app-desktop    
+yarn install   
+# build AppImage
+yarn run dist -- --publish=never --linux --arm64
+# build deb
+# mod the files
+jq '.author |= {"name": "Laurent Cozic", "email": "laurent@cozic.net"}' package.json > package_new.json
+jq '.build += {"deb": {"compression": "gz"}}' package_new.json > package.json
+jq '.name = "Joplin"' package.json > package_new.json
+mv package_new.json package.json
+# build it now
+export USE_SYSTEM_FPM=true
+npm run dist -- --arm64 --linux deb
+
+```
+
 
 ## references
 https://blog.csdn.net/a1452302285/article/details/104328843    
