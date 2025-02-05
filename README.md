@@ -22,6 +22,8 @@ After a long building time went away, including my spare time and break time. Di
 + [v2.14.20(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/Egow_wRY0gFFgzrqrkgrJ8IBkATfwoFMtcZzhf_GKA_5jw?e=yrcP32), 2024/03/27 PM, build OS: ubuntu 23.10
 + [v3.0.15(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/EtbJo-yXMOdDvfHSASwhdUwB0wTY2DGjXYHOO8lufPJs7g?e=6qwyam), 2024/11/17 afternoon, build os: ubuntu 23.10
 + [v3.1.20(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/EmFJSJhwmBdNoJOceOeWpkgBBhe-OC4wTuyc7o-FGNGwpA?e=acbQB4), 2024/11/17 afternoon, build os: ubuntu 23.10
++ [v3.2.12(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/EjVgLjkGJktNingOFWAzD-UBBtAPhgeDwU6SRhKt0a6h-Q?e=1RtgC2), 2025/01/29 night, build os: ubuntu 23.10
+
 
 * * *
 
