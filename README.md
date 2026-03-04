@@ -23,6 +23,8 @@ After a long building time went away, including my spare time and break time. Di
 + [v3.0.15(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/EtbJo-yXMOdDvfHSASwhdUwB0wTY2DGjXYHOO8lufPJs7g?e=6qwyam), 2024/11/17 afternoon, build os: ubuntu 23.10
 + [v3.1.20(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/EmFJSJhwmBdNoJOceOeWpkgBBhe-OC4wTuyc7o-FGNGwpA?e=acbQB4), 2024/11/17 afternoon, build os: ubuntu 23.10
 + [v3.2.12(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/EjVgLjkGJktNingOFWAzD-UBBtAPhgeDwU6SRhKt0a6h-Q?e=1RtgC2), 2025/01/29 night, build os: ubuntu 23.10
++ [v3.3.13(?arm)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/IgCTvQJazSiqRp3x8wvKl7VxAfdRIV6fSy6rB5AUo32g_A4?e=fgd3mh), 2025/08/20, afternoon, build os: ubuntu 20.04(termux)
++ [v3.4.12(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/IgBsxq3QPRWMTKTj7NeHNgOfAU0zZeuD2H9iS2I2tmchx3A?e=wmHVi6), 2025/09/19, afternoon, build os: ubuntu 20.04(termux)
 
 
 * * *
@@ -46,11 +48,11 @@ After a long building time went away, including my spare time and break time. Di
 P.S.: As test on my pi400 machine, some issues showed up on deb package. So i recommend you just use AppImage package if you need the new version. 2023/08/06
 
 
-When I try to build package in ubuntu 23.10(deploy via termux in my new phone OPPO K11), issues on deb package had disappear just now. So the deb file is valid now. 2024/02/03
+1) When I try to build package in ubuntu 23.10(deploy via termux in my new phone OPPO K11), issues on deb package had disappear just now. So the deb file is valid now. 2024/02/03
 
-Now, I switch the build environment into my oneplus 7(ubuntu 23.10 deployed via termux app), then test cases in the AppImage and deb packages are well, just enjoy taking notes! 2024/03/28
+2) Now, I switch the build environment into my oneplus 7(ubuntu 23.10 deployed via termux app), then test cases in the AppImage and deb packages are well, just enjoy taking notes! 2024/03/28
 
-Yep, I try to build joplin latest version in new environment, using my old phone Redmi Note7 Pro(ubuntu 22.04.3 deployed via termux app), and it works after fix some issues lack of libxxx. Test cases in the AppImage and deb package show that most of functions are normal. Cheer up, guys! 2024/05/03
+3) Yep, I try to build joplin latest version in new environment, using my old phone Redmi Note7 Pro(ubuntu 22.04.3 deployed via termux app), and it works after fix some issues lack of libxxx. Test cases in the AppImage and deb package show that most of functions are normal. Cheer up, guys! 2024/05/03
 
 
 - Joplin official release note: https://github.com/laurent22/joplin/releases
