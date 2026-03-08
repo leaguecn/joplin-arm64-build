@@ -23,9 +23,10 @@ After a long building time went away, including my spare time and break time. Di
 + [v3.0.15(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/EtbJo-yXMOdDvfHSASwhdUwB0wTY2DGjXYHOO8lufPJs7g?e=6qwyam), 2024/11/17 afternoon, build os: ubuntu 23.10
 + [v3.1.20(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/EmFJSJhwmBdNoJOceOeWpkgBBhe-OC4wTuyc7o-FGNGwpA?e=acbQB4), 2024/11/17 afternoon, build os: ubuntu 23.10
 + [v3.2.12(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/EjVgLjkGJktNingOFWAzD-UBBtAPhgeDwU6SRhKt0a6h-Q?e=1RtgC2), 2025/01/29 night, build os: ubuntu 23.10
-+ [v3.3.13(?arm)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/IgCTvQJazSiqRp3x8wvKl7VxAfdRIV6fSy6rB5AUo32g_A4?e=fgd3mh), 2025/08/20, afternoon, build os: ubuntu 20.04(termux)
-+ [v3.4.12(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/IgBsxq3QPRWMTKTj7NeHNgOfAU0zZeuD2H9iS2I2tmchx3A?e=wmHVi6), 2025/09/19, afternoon, build os: ubuntu 20.04(termux)
-
++ [v3.3.13(?arm)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/IgCTvQJazSiqRp3x8wvKl7VxAfdRIV6fSy6rB5AUo32g_A4?e=fgd3mh), 2025/08/20, afternoon, build os: ubuntu 20.04(termux deploy)
++ [v3.4.12(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/IgBsxq3QPRWMTKTj7NeHNgOfAU0zZeuD2H9iS2I2tmchx3A?e=wmHVi6), 2025/09/19, afternoon, build os: ubuntu 20.04(termux deploy)
++ [v3.5.13(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/IgBuvhnf1id3Q4jxJlcWHGSDAXgQVdGmMIrwqqDQONHu5xI?e=9b4Q8g), 2026/03/05, afternoon, build os: ubuntu 22.04.3(termux deploy)
++ [v3.6.3(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/IgAaA1uOies4TJNhn1GhRV3iAc9PyLyMT-qEE2tTeaXhIaM?e=DfYjpl), 2026/03/08, morning, build os: ubuntu 22.04.3(termux deploy)
 
 * * *
 
@@ -54,10 +55,11 @@ P.S.: As test on my pi400 machine, some issues showed up on deb package. So i re
 
 3) Yep, I try to build joplin latest version in new environment, using my old phone Redmi Note7 Pro(ubuntu 22.04.3 deployed via termux app), and it works after fix some issues lack of libxxx. Test cases in the AppImage and deb package show that most of functions are normal. Cheer up, guys! 2024/05/03
 
+4) It seems that you should install deb first, then running AppImage is the second step, when you get the package built after 2026. 2026/03/08
+
 
 - Joplin official release note: https://github.com/laurent22/joplin/releases
 - Termux official website: https://termux.dev/en/
-
 
 
 ## Instruction
