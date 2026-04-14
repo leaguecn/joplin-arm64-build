@@ -27,6 +27,7 @@ After a long building time went away, including my spare time and break time. Di
 + [v3.4.12(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/IgBsxq3QPRWMTKTj7NeHNgOfAU0zZeuD2H9iS2I2tmchx3A?e=wmHVi6), 2025/09/19, afternoon, build os: ubuntu 20.04(termux deploy)
 + [v3.5.13(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/IgBuvhnf1id3Q4jxJlcWHGSDAXgQVdGmMIrwqqDQONHu5xI?e=9b4Q8g), 2026/03/05, afternoon, build os: ubuntu 22.04.3(termux deploy)
 + [v3.6.3(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/IgAaA1uOies4TJNhn1GhRV3iAc9PyLyMT-qEE2tTeaXhIaM?e=DfYjpl), 2026/03/08, morning, build os: ubuntu 22.04.3(termux deploy)
++ [v3.6.8(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/IgCOwcLwtDYNS5U_WqpW4VhmAcUwxXu-h-ChM-KYXae9hrI?e=vUTp9V), 2026/04/13, night, build os:  ubuntu 20.04(termux deploy)
 
 * * *
 
@@ -63,7 +64,7 @@ P.S.: As test on my pi400 machine, some issues showed up on deb package. So i re
 
 
 ## Instruction
-How to install the binary file for arm devices?
++ How to install the binary file for arm devices?
 ```sh
 sudo dpkg -i xxx.deb
 
@@ -74,6 +75,43 @@ sudo chmod a+x yyy.AppImage
 ./yyy.AppImage
 
 ```
+
+
+## Degrade joplin
+
++ kill joplin
+```bash
+
+ps -A
+kill -9 joplin-pid
+
+```
+
++ remove joplin & config
+```bash
+
+# remove joplin tmp files
+ls /tmp -a | grep "joplin"
+rm /tmp/joplin-js-xxxx
+
+# uninstall joplin by dpkg
+# make sure joplin install before, try [dpkg --list | grep "joplin"] to find it
+sudo dpkg -P joplin
+
+# remove joplin config 
+# to solve the conflict of database version chaos
+
+ls ~/.config | grep "joplin"
+ls ~/.config/joplin-desktop
+
+rm -rf ~/.config/joplin-desktop
+
+# re-install deb or run AppImage file
+sudo dpkg -i xxx.deb
+./yyy.AppImage
+
+```
+
 Good luck to you, guys. i really hope you can run joplin in your arm devices, making some tips note.
 
 
