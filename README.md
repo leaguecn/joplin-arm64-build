@@ -24,7 +24,8 @@ So how to get AI api and configure with it? Just as following step like me going
  - Select **OpenAI-compatible** as Chat provider;
  
  - Input the **Base URL**、**API key**、**Model** value;
-<img alt="ai-option-enable-fill.png" src="https://github.com/leaguecn/joplin-arm64-build/blob/main/imgs/ai-option-enable-fill.png?raw=true" data-hpc="true" containertiming="hpc" style="max-width:100%">
+
+ <img alt="ai-option-enable-fill.png" src="https://github.com/leaguecn/joplin-arm64-build/blob/main/imgs/ai-option-enable-fill.png?raw=true" data-hpc="true" containertiming="hpc" style="max-width:100%">
 
 
 ```
