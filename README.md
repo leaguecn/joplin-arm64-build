@@ -20,7 +20,7 @@ So how to get AI api and configure with it? Just as following step like me going
 + Click on **Tools** item of menu bar on application header line, and go to submenu **options**;
 + You can find **AI** module now, click it to open configure page;
  - Check the **Enable AI feature** and **Allow remote AI providers**;
-<img alt="ai-option-enable.png" src="https://github.com/leaguecn/joplin-arm64-build/blob/main/imgs/ai-option-enable.png?raw=true" data-hpc="true" containertiming="hpc" style="max-width:100%"> 
+ <img alt="ai-option-enable.png" src="https://github.com/leaguecn/joplin-arm64-build/blob/main/imgs/ai-option-enable.png?raw=true" data-hpc="true" containertiming="hpc" style="max-width:100%"> 
  - Select **OpenAI-compatible** as Chat provider;
  - Input the **Base URL**、**API key**、**Model** value;
 <img alt="ai-option-enable-fill.png" src="https://github.com/leaguecn/joplin-arm64-build/blob/main/imgs/ai-option-enable-fill.png?raw=true" data-hpc="true" containertiming="hpc" style="max-width:100%">
