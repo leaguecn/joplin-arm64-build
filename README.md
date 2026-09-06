@@ -9,20 +9,35 @@ After a long building time went away, including my spare time and break time. Di
 
 After version v3.7, the joplin support the ai chat, you can use some ai model internally via AI module.
 So how to get AI api and configure with it? Just as following step like me going:
-
-+ Registe one AI api account
- 
-
-
-+ Configure in "tools-options-AI" of menu bar
- 
+### Register one AI api account
++ Go to [OrcaRouter](https://www.orcarouter.ai/ref/ref_8777327cf722c1ece3f5) — One AI gateway: adaptive LLM routing &amp; governance, create new account.
++ Find the free or pricing model based on your need on left side bar **Models** part.
++ Get the api key and store it in scurity place.
 
 
+### Configure in "tools-options-AI" of menu bar
++ Click on **Tools** item of menu bar on application header line, and go to submenu **options**;
++ You can find **AI** module now, click it to open configure page;
 
+ - Check the **Enable AI feature** and **Allow remote AI providers**;
+ - Select **OpenAI-compatible** as Chat provider;
+ - Input the **Base URL**、**API key**、**Model** value;
 
+```
+ase URL:
+https://api.orcarouter.ai/v1
+API key:
+xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Model:
+qwen/qwen3.8-27b-free
+orcarouter/free
+deepseek/deepseek-v4-flash-free
+tencent/hy3-free
 
-
-
+```
++ After filled in all the value what ai need, so just test it with **Test AI configuration**;
++ If everything is ok, then you should go to subitem **Tools** functions page to enable some function as shotcut, save them and return main page.
++ Invoke the AI chat page via click right-top message icon;
 
 ## Build file links
 + [Joplin-arm64.dep](https://cumteducn-my.sharepoint.com/:u:/g/personal/liguinan_cumt_edu_cn/ETOpehbT4mVImciGQwBHmuABS2ENoB-XxHEXFckfMiN8Lw?e=elWzxW)
