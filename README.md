@@ -54,7 +54,6 @@ tencent/hy3-free
 + Invoke the AI chat page via click right-top message icon;
 <img alt="ai-module-tag.png" src="https://github.com/leaguecn/joplin-arm64-build/blob/main/imgs/ai-module-tag.png?raw=true" data-hpc="true" containertiming="hpc" style="max-width:100%">
 <img alt="ai-module-chat-en.png" src="https://github.com/leaguecn/joplin-arm64-build/blob/main/imgs/ai-module-chat-en.png?raw=true" data-hpc="true" containertiming="hpc" style="max-width:100%">
-<img alt="ai-module-cht-cn.png" src="https://github.com/leaguecn/joplin-arm64-build/blob/main/imgs/ai-module-chat-cn.png?raw=true" data-hpc="true" containertiming="hpc" style="max-width:100%">
 
 ## Build file links
 + [Joplin-arm64.dep](https://cumteducn-my.sharepoint.com/:u:/g/personal/liguinan_cumt_edu_cn/ETOpehbT4mVImciGQwBHmuABS2ENoB-XxHEXFckfMiN8Lw?e=elWzxW)
