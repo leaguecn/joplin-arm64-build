@@ -35,12 +35,12 @@ ase URL:
 https://api.orcarouter.ai/v1
 API key:
 xxxxxxxxxxxxxxxxxxxxxxxxxxxx
-Model:
+Model(only free):
 qwen/qwen3.8-27b-free
 orcarouter/free
 deepseek/deepseek-v4-flash-free
 tencent/hy3-free
-
+...
 ```
 
 
