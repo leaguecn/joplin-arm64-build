@@ -4,6 +4,26 @@ When i get my PI400 mini computer, i was so surprised for it. After installing t
 Then, one day, i wanna make some note for my searching result, testing on some open sources softwares. But there are a few builts for arm64 devices.
 Joplin is one of pretty beautiful softwares. Yep, that time i cannot find any built for my PI400. So i tried to build one for my arm64 device.
 After a long building time went away, including my spare time and break time. Different building methods, searching from internet, had been tried. Finally, i made it, suffering lack of the npm dependencies. p.s. the packages were build on ubuntu18 deploy on my oneplus7 via [Linux Deploy](https://github.com/meefik/linuxdeploy) app
+
+## AI chat features
+
+After version v3.7, the joplin support the ai chat, you can use some ai model internally via AI module.
+So how to get AI api and configure with it? Just as following step like me going:
+
++ Registe one AI api account
+ 
+
+
++ Configure in "tools-options-AI" of menu bar
+ 
+
+
+
+
+
+
+
+
 ## Build file links
 + [Joplin-arm64.dep](https://cumteducn-my.sharepoint.com/:u:/g/personal/liguinan_cumt_edu_cn/ETOpehbT4mVImciGQwBHmuABS2ENoB-XxHEXFckfMiN8Lw?e=elWzxW)
 + [Joplin-arm64.AppImage](https://cumteducn-my.sharepoint.com/:u:/g/personal/liguinan_cumt_edu_cn/EfGOAO6y6KdLoDilM1upJRkBfAxjFR9lorGF5pB7iFLiCQ?e=Odtpxv)
@@ -28,6 +48,8 @@ After a long building time went away, including my spare time and break time. Di
 + [v3.5.13(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/IgBuvhnf1id3Q4jxJlcWHGSDAXgQVdGmMIrwqqDQONHu5xI?e=9b4Q8g), 2026/03/05, afternoon, build os: ubuntu 22.04.3(termux deploy)
 + [v3.6.3(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/IgAaA1uOies4TJNhn1GhRV3iAc9PyLyMT-qEE2tTeaXhIaM?e=DfYjpl), 2026/03/08, morning, build os: ubuntu 22.04.3(termux deploy)
 + [v3.6.8(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/IgCOwcLwtDYNS5U_WqpW4VhmAcUwxXu-h-ChM-KYXae9hrI?e=vUTp9V), 2026/04/13, night, build os:  ubuntu 20.04(termux deploy)
++ [v3.7.14(arm64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/IgDPIa50dIdTSYulkqYavyaUAbc6cuIGtdeYw7Ffcd57j0o?e=fLLoPY), 202/09/06, p.m., build os: ubuntu 20.04(termux deploy)
+
 
 * * *
 
