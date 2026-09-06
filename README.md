@@ -19,12 +19,13 @@ So how to get AI api and configure with it? Just as following step like me going
 ### Configure in "tools-options-AI" of menu bar
 + Click on **Tools** item of menu bar on application header line, and go to submenu **options**;
 + You can find **AI** module now, click it to open configure page;
-
  - Check the **Enable AI feature** and **Allow remote AI providers**;
 <img alt="ai-option-enable.png" src="https://github.com/leaguecn/joplin-arm64-build/blob/main/imgs/ai-option-enable.png?raw=true" data-hpc="true" containertiming="hpc" style="max-width:100%"> 
  - Select **OpenAI-compatible** as Chat provider;
  - Input the **Base URL**、**API key**、**Model** value;
-<img alt="ai-option-enable-fill.png" src="https://github.com/leaguecn/joplin-arm64-build/blob/main/imgs/ai-option-enable-fill.png?raw=true" data-hpc="true" containertiming="hpc" style="max-width:100%"> 
+<img alt="ai-option-enable-fill.png" src="https://github.com/leaguecn/joplin-arm64-build/blob/main/imgs/ai-option-enable-fill.png?raw=true" data-hpc="true" containertiming="hpc" style="max-width:100%">
+
+
 ```
 ase URL:
 https://api.orcarouter.ai/v1
@@ -37,6 +38,8 @@ deepseek/deepseek-v4-flash-free
 tencent/hy3-free
 
 ```
+
+
 + After filled in all the value what ai need, so just test it with **Test AI configuration**;
 <img alt="ai-module-test.png" src="https://github.com/leaguecn/joplin-arm64-build/blob/main/imgs/ai-module-test.png?raw=true" data-hpc="true" containertiming="hpc" style="max-width:100%">
 + If everything is ok, then you should go to subitem **Tools** functions page to enable some function as shotcut, save them and return main page.
