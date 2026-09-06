@@ -12,6 +12,7 @@ So how to get AI api and configure with it? Just as following step like me going
 ### Register one AI api account
 + Go to [OrcaRouter](https://www.orcarouter.ai/ref/ref_8777327cf722c1ece3f5) — One AI gateway: adaptive LLM routing &amp; governance, create new account.
 + Find the free or pricing model based on your need on left side bar **Models** part.
+<img alt="ai-api-free.png" src="https://github.com/leaguecn/joplin-arm64-build/blob/main/imgs/ai-api-free.png?raw=true" data-hpc="true" containertiming="hpc" style="max-width:100%">
 + Get the api key and store it in scurity place.
 
 
@@ -20,9 +21,10 @@ So how to get AI api and configure with it? Just as following step like me going
 + You can find **AI** module now, click it to open configure page;
 
  - Check the **Enable AI feature** and **Allow remote AI providers**;
+<img alt="ai-option-enable.png" src="https://github.com/leaguecn/joplin-arm64-build/blob/main/imgs/ai-option-enable.png?raw=true" data-hpc="true" containertiming="hpc" style="max-width:100%"> 
  - Select **OpenAI-compatible** as Chat provider;
  - Input the **Base URL**、**API key**、**Model** value;
-
+<img alt="ai-option-enable-fill.png" src="https://github.com/leaguecn/joplin-arm64-build/blob/main/imgs/ai-option-enable-fill.png?raw=true" data-hpc="true" containertiming="hpc" style="max-width:100%"> 
 ```
 ase URL:
 https://api.orcarouter.ai/v1
@@ -36,8 +38,13 @@ tencent/hy3-free
 
 ```
 + After filled in all the value what ai need, so just test it with **Test AI configuration**;
+<img alt="ai-module-test.png" src="https://github.com/leaguecn/joplin-arm64-build/blob/main/imgs/ai-module-test.png?raw=true" data-hpc="true" containertiming="hpc" style="max-width:100%">
 + If everything is ok, then you should go to subitem **Tools** functions page to enable some function as shotcut, save them and return main page.
+<img alt="ai-module-settings.png" src="https://github.com/leaguecn/joplin-arm64-build/blob/main/imgs/ai-module-settings.png?raw=true" data-hpc="true" containertiming="hpc" style="max-width:100%">
 + Invoke the AI chat page via click right-top message icon;
+<img alt="ai-module-tag.png" src="https://github.com/leaguecn/joplin-arm64-build/blob/main/imgs/ai-module-tag.png?raw=true" data-hpc="true" containertiming="hpc" style="max-width:100%">
+<img alt="ai-module-chat-en.png" src="https://github.com/leaguecn/joplin-arm64-build/blob/main/imgs/ai-module-chat-en.png?raw=true" data-hpc="true" containertiming="hpc" style="max-width:100%">
+<img alt="ai-module-cht-cn.png" src="https://github.com/leaguecn/joplin-arm64-build/blob/main/imgs/ai-module-chat-cn.png?raw=true" data-hpc="true" containertiming="hpc" style="max-width:100%">
 
 ## Build file links
 + [Joplin-arm64.dep](https://cumteducn-my.sharepoint.com/:u:/g/personal/liguinan_cumt_edu_cn/ETOpehbT4mVImciGQwBHmuABS2ENoB-XxHEXFckfMiN8Lw?e=elWzxW)
